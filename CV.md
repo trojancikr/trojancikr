@@ -1,9 +1,15 @@
 Radovan Trojančík
 ==
 > Software development enthusiast always looking to improve himself as well as  collaboration with others. From strong background in .NET transitioned to NodeJS. Currenctly interested in Svelte, Golang, Rust.
+
+📍 Heidelberg, Germany 🇩🇪
+
 # Work Experience
 ## Software Development Engineer
 ### 1/2021 - 4/2022 Main Incubator GmbH
+
+📍 Frankfurt am Main, Germany 🇩🇪
+
 Worked in small development team on various projects in banking domain:
 * PoC visualization dashboard - ReactJS
 * Project planning (epic level)
@@ -15,6 +21,9 @@ Later delegated to Commerzbank BDAA (Big Data Advance Analytics)
 
 ## Senior Software Systems Engineer / Lead Software Engineer
 ### 1/2014 - 12/2020 Verivox GmbH
+
+📍 Heidelberg, Germany 🇩🇪
+
 Performed mostly technical leadership roles in various teams:
 * Developing user stories within a Scrum team
 * Participating on architectural and solution design decisions
@@ -43,6 +52,9 @@ Supporting self-organized teams
 Tech stack: .NET Framework, ASP.NET MVC, ASP.NET WebForms, JavaScript, React, Angular
 ## Software Developer (Senior)
 ### 2/2010 - 12/2013 Unicorn Systems / Vigour
+
+📍 Prague, Czech Republic 🇨🇿
+
 Fulfilled a range of roles mostly in development and software architecture
 * Work on both internal projects and outsourced to external clients
 * Worked mostly on projects within Banking, Insurance, Commodity Market environments * Developing request features individually or as a part of the team
@@ -52,6 +64,9 @@ Fulfilled a range of roles mostly in development and software architecture
 Tech stack: .NET Framework, ASP.NET MVC, ASP.NET WebForms, JavaScript, SharePoint, WPF,  WinForms, Silverlight
 ## Specialist (software development)
 ### 2/2009 - 1/2010 RWE Internal Services
+
+📍 Prague, Czech Republic 🇨🇿
+
 Carry out a wide range of roles from analysis, through development and testing to L2 support to internal  customers
 * Establish development foundation for the distributed teams
 * Modification of an application for monitoring Group's cashflow - analysis, implementation and  testing
@@ -59,11 +74,17 @@ Carry out a wide range of roles from analysis, through development and testing t
 Tech stack: PHP, JavaScript, VBA
 ## Software Developer
 ### 1/2009 - 1/2009 FBL
+
+📍 Prague, Czech Republic 🇨🇿
+
 Developer of Back office system for small and medium sized banks
 * Adapting the system for the client specification
 Tech Stack: .NET Framework, Oracle
 ## Software Developer
 ### 6/2007 - 10/2008 TietoEnator
+
+📍 Ostrava, Czech Republic 🇨🇿
+
 Developer mainly outsourced to nearshore teams in Sweden and Finland
 * Worked in an international distributed team
 * Development of internal system for Swedish Insurance company
